@@ -3,7 +3,7 @@
     {
       "name": "3B_STM32F1 Board",
       "websiteURL": "https://www.3bsemi.com/",
-      "maintainer": "",
+      "maintainer": "3B Semiconductors",
       "email": "sushma.gawde@3bsemi.com",
       "help": {
         "online": "hhttps://www.3bsemi.com/"
