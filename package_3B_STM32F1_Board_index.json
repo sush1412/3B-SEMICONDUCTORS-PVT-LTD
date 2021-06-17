@@ -19,7 +19,7 @@
           "checksum": "SHA-256:27a835cbcf1a7da192f0b751f5ba37f52e6fdf1effe4b38a8eda11ee5da23b56",
           "size": "3464884",
           "boards": [
-            {"name": "3B_STM32F1 Board"},
+            {"name": "3B_STM32F1_Board"}
             
           ],
           "toolsDependencies": [
