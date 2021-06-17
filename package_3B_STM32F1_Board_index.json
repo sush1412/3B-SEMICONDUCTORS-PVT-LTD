@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "3B_STM32F1 Board",
+      "name": "3B_STM32F1_Board",
       "websiteURL": "https://www.3bsemi.com/",
       "maintainer": "3B Semiconductors",
       "email": "sushma.gawde@3bsemi.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "3B_STM32F1 Board",
+          "name": "3B_STM32F1_Board",
           "architecture": "stm32",
           "version": "0.0.1",
           "category": "Contributed",
