@@ -29,7 +29,7 @@
                             "packager": "sduino"
                         }
                     ],
-                    "url": "https://github.com/tenbaht/sduino/releases/download/v0.5/sduino-core-0.5.tar.bz2",
+                    "url": "https://github.com/sush1412/3B-SEMICONDUCTORS-PVT-LTD/blob/main/3bsduino.zip",
                     "archiveFileName": "3bsduino.zip",
                     "checksum": "SHA-256:1ef111bf2621561d0ec617e93ae07934eb255520154908c4ca636c2a2a73d8d3",
                     "size": "15612158"
