@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/sush1412/3B-SEMICONDUCTORS-PVT-LTD/blob/main/3B_STM32F1_Board.rar",
           "archiveFileName": "3B_STM32F1_Board.rar",
-          "checksum": "SHA-256:27a835cbcf1a7da192f0b751f5ba37f52e6fdf1effe4b38a8eda11ee5da23b56",
+          "checksum": "SHA-256:124b7ee43ad6d3e3de1fcb60c8b9af5635a5acd4978854eb929ef0e730bf9981",
           "size": "3464884",
           "boards": [
             {"name": "3B_STM32F1_Board"}
