@@ -14,10 +14,10 @@
           "architecture": "stm32",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/sush1412/3B-SEMICONDUCTORS-PVT-LTD/blob/main/3B_STM32F1_Board.rar",
-          "archiveFileName": "3B_STM32F1_Board.rar",
+          "url": "https://github.com/sush1412/3B-SEMICONDUCTORS-PVT-LTD/blob/main/3B_STM32F1_Board.zip",
+          "archiveFileName": "3B_STM32F1_Board.zip",
           "checksum": "SHA-256:124b7ee43ad6d3e3de1fcb60c8b9af5635a5acd4978854eb929ef0e730bf9981",
-          "size": "3464884",
+          "size": "3642547",
           "boards": [
             {"name": "3B_STM32F1_Board"}
             
