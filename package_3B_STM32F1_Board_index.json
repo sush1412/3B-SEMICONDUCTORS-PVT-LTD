@@ -22,21 +22,32 @@
             {"name": "3B_STM32F1_Board"}
             
           ],
-          "toolsDependencies": [
+          "toolsDependencies":
+          [
             {
-              "packager": "STMicroelectronics",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.3.1-1.3"
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
             },
             {
-              "packager": "STMicroelectronics",
-              "name": "STM32Tools",
-              "version": "2.0.0"
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
               "name": "CMSIS",
-              "version": "5.7.0"
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
             }
           ]
         }
