@@ -12,7 +12,7 @@
         {
           "name": "3B_STM32F1_Board",
           "architecture": "stm32",
-          "version": "0.0.1",
+          "version": "2021.14.06",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/sush1412/3B-SEMICONDUCTORS-PVT-LTD/main/3B_STM32F1_Board.zip",
           "archiveFileName": "3B_STM32F1_Board.zip",
