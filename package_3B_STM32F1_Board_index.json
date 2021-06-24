@@ -12,12 +12,12 @@
         {
           "name": "3B_STM32F1_Board",
           "architecture": "stm32",
-          "version": "2021.14.06",
+          "version": "0.0.1",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/sush1412/3B-SEMICONDUCTORS-PVT-LTD/main/3B_STM32F1_Board.zip",
           "archiveFileName": "3B_STM32F1_Board.zip",
-          "checksum": "SHA-256:8be52ba958ed47a875b9c1fab39ff252c7ca97d0a07c5313f86d8d60e5129aa9",
-          "size": "3642552",
+          "checksum": "SHA-256:e31a00c1eef4453c1b9d10e304a127733620593893455700a4e8de061b29d33c",
+          "size": "3630097",
           "boards": [
             {"name": "3B_STM32F1_Board"}
             
